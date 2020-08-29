@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C8D8D26F-8153-CB7C-D07D-78724F7E3E4D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CityMotoRacer/Scripts/menuScripts/levelSelection.cs">
+    <Files>
+      <File FileName="EmptyClass.cs" Line="8" Column="6" />
+      <File FileName="Assets/CityMotoRacer/Scripts/menuScripts/levelSelection.cs" Line="36" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="City Moto Racer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CityMotoRacer" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="menuScripts" expanded="True">
+                    <Node name="levelSelection.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f7e5c1e-23e5-4762-a2f3-1f76d3116b2d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
